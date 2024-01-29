@@ -1,9 +1,4 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
-      "ghcr.io/devcontainers/features/php:1": {
-        "version":"7.4",
-        "installComposer": false
-      }
-  }  
+  "image": "mcr.microsoft.com/vscode/devcontainers/php:7.4-bullseye",
+  "features": {}  
 }
